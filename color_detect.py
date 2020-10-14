@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-#path for image
 path="opencv/samples/data/WindowsLogo.jpg"
 def empty(x):
 	pass
